@@ -1,0 +1,10 @@
+body{
+    background-position:center;
+    background-size:cover;
+}
+
+a{
+  width:30%;
+  margin:20px;
+    background-color: red;
+}
